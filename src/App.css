@@ -1,0 +1,26 @@
+.app {
+  padding:30px;
+  /* text-align: center; */
+  background-color: antiquewhite;
+}
+
+.todos{
+  display:flex;
+  flex-direction: column;
+  gap : 1em;
+}
+.todo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 18px;;
+}
+.todobutton{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 18px;;
+
+}
